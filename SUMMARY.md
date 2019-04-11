@@ -29,6 +29,8 @@
     * [世界的终焉篇]
     * [梦]
       * [1 milk酱和milk酱和milk酱](EX/1.md) 
+      * [TWO milk card](EX/2.md)
+      * [吐槽](EX/neta.md)	
 * [New World]
   <!-- * [Season 05 NEO] -->
   * [寻找可乐]
