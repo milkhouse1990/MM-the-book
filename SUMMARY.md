@@ -35,8 +35,7 @@
   <!-- * [Season 05 NEO] -->
   * [寻找可乐]
     * [1 dark aqua酱登场](Vol5/Cha1/1.md)
-    * [2](Vol5/Cha1/2.md)
-    * [3 不用你来管！](Vol5/Cha1/3.md)
+    * [2 不用你来管！](Vol5/Cha1/2.md)
   * [NEET DETECTIVE]
     * [1](Vol5/Cha2/1.md)
     <!-- Season 04 -->
