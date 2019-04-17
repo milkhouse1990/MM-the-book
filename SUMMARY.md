@@ -8,7 +8,7 @@
   *[1 milk](Vol0/Cha1/1.md)
 <!-- * [Season 01 魔法物语] -->
 * [见习魔法少女]
-  * [1 一个人的战斗](Vol1/Cha1/1.md)
+  * [6 milk酱的召唤魔法](Vol1/Cha1/6.md)
   * [吐槽](Vol1/Cha1/neta.md)
 * [魔法家族]
 * [恶魔种子]
