@@ -5,7 +5,7 @@
 <!-- * [-1] -->
 <!-- * [0] -->
 * [前传 天使牛奶酱]
-  *[1 milk](Vol0/Cha1/1.md)
+  * [1 milk](Vol0/Cha1/1.md)
 <!-- * [Season 01 魔法物语] -->
 * [见习魔法少女]
   * [6 milk酱的召唤魔法](Vol1/Cha1/6.md)
@@ -42,7 +42,8 @@
 * [12公主]
 * [dreams of cola]
     * [1 milk酱和milk酱和milk酱](EX/1.md) 
-    * [TWO milk card](EX/2.md)
+    * [II milk card](EX/2.md)
+    * [III 大好评发售中！](EX/3.md)
     * [吐槽](EX/neta.md)	
 <!-- * [Season 05 NEO] -->
 * [寻找可乐]
