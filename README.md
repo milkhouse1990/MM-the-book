@@ -7,3 +7,5 @@
 现在看起来应该会比较吃力的吧……因为时间跨度很大，而且我喜欢到处挖坑，想写哪段就写哪段，于是就变成了今天的样子。
 
 嘛，尽量努力填坑吧。
+
+*This story is written for fun, for my princess and for my goddess.*
