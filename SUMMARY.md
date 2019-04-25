@@ -8,9 +8,20 @@
   * [1 milk](Vol0/Cha1/1.md)
 <!-- * [Season 01 魔法物语] -->
 * [见习魔法少女]
+  * [1 一个人的战斗](Vol1/Cha1/1.md)
+  * [2 两个人的归途](Vol1/Cha1/2.md)
+  * [3 nana登场](Vol1/Cha1/3.md)
+  * [4 milk酱的Lesson 1](Vol1/Cha1/4.md)
+  * [5 Hello and Goodbye](Vol1/Cha1/5.md)
   * [6 milk酱的召唤魔法](Vol1/Cha1/6.md)
+  * [7 闹鬼的医院](Vol1/Cha1/7.md)
+  * [8 魔杖世界](Vol1/Cha1/8.md)
+  * [9 决斗](Vol1/Cha1/9.md)
+  * [10 milk酱的决心](Vol1/Cha1/10.md)
+  * [11 决定](Vol1/Cha1/11.md)
   * [吐槽](Vol1/Cha1/neta.md)
 * [魔法家族]
+  * [1 求救](Vol1/Cha2/1.md)
 * [恶魔种子]
 * [SP 江湖篇]
   * [1 新的冒险世界开启！？](Vol3/Cha1/1.md)
@@ -44,6 +55,7 @@
   * [1 milk酱和milk酱和milk酱](EX/1.md) 
   * [II milk card](EX/2.md)
   * [III 大好评发售中！](EX/3.md)
+  * [4 平静的平安夜](EX/4.md)
   * [-1 ???](EX/-1.md)
   * [吐槽](EX/neta.md)	
 <!-- * [Season 05 NEO] -->
