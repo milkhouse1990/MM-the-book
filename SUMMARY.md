@@ -56,13 +56,15 @@
   * [II milk card](EX/2.md)
   * [III 大好评发售中！](EX/3.md)
   * [4 平静的平安夜](EX/4.md)
-  * [-1 ???](EX/-1.md)
+  * [LI (dream (dream you))](EX/51.md)
+  * [52 ???](EX/-1.md)
   * [吐槽](EX/neta.md)	
 <!-- * [Season 05 NEO] -->
 * [寻找可乐]
   * [1 dark aqua酱登场](Vol5/Cha1/1.md)
   * [2 不用你来管！](Vol5/Cha1/2.md)
   * [10 写作aqua 读作cola](Vol5/Cha1/10.md)
+  * [11 M. I. U. S. Type R](Vol5/Cha1/11.md)
 * [NEET DETECTIVE]
   * [1](Vol5/Cha2/1.md)
   <!-- Season 04 -->
