@@ -72,17 +72,16 @@
     * [11 M. I. U. S. Type R](Vol5/Cha1/11.md)
   * NEET DETECTIVE
     * [1](Vol5/Cha2/1.md)
-* Season 04
-  * 世界崩坏
-    * [1 混乱的世界](Vol4/Cha1/1.md)
-    * [2 比武招亲](Vol4/Cha1/2.md)
-    * [3 公主殿下](Vol4/Cha1/3.md)
-    * [4 敌袭](Vol4/Cha1/4.md)
-    * [5 勇气](Vol4/Cha1/5.md)
-    * [6 危险的启程](Vol4/Cha1/6.md)
-    * [7 我是老大](Vol4/Cha1/7.md)
-    * [8 海啸](Vol4/Cha1/8.md)
-    * [10 无节操莲酱](Vol4/Cha1/10.md)
+* 世界崩坏
+  * [1 混乱的世界](4-1-1.md)
+  * [2 比武招亲](Vol4/Cha1/2.md)
+  * [3 公主殿下](Vol4/Cha1/3.md)
+  * [4 敌袭](Vol4/Cha1/4.md)
+  * [5 勇气](Vol4/Cha1/5.md)
+  * [6 危险的启程](Vol4/Cha1/6.md)
+  * [7 我是老大](Vol4/Cha1/7.md)
+  * [8 海啸](Vol4/Cha1/8.md)
+  * [10 无节操莲酱](Vol4/Cha1/10.md)
 * 废案
   * 超科学研发局篇
   * 守护天使篇
